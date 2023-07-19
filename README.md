@@ -1,1 +1,1 @@
-# Rfid-Object-Tracker-System
+Implemented an IoT-based RFID Object Tracker System, a cutting-edge solution that uses RFID technology and IoT connectivity to track and manage objects in real-time. It includes RFID tags attached to objects, RFID readers to collect data, an IoT gateway for seamless communication, and a cloud-based platform for data processing and access. 
